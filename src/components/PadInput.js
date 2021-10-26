@@ -4,7 +4,7 @@ class PadInput extends React.Component {
 
     render(){
         return(
-            <div></div>
+            <div>designpad</div>
         )
     }
 }
